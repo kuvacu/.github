@@ -1,4 +1,4 @@
-# ![KUVACU Banner](1000x250.png?text=KUVACU+-+Open+%26+Closed+Innovation)
+# ![KUVACU Banner](https://t4.ftcdn.net/jpg/07/48/44/61/360_F_748446107_gRkebqAdRkUFssJX6sjXhdTnW8gKOkuQ.jpg)
 
 ## 👋 О нас
 **KUVACU** — команда, которая соединяет открытые и закрытые технологии.  
