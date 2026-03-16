@@ -1,4 +1,4 @@
-![Kuvacu Banner](https://capsule-render.vercel.app/api?type=waving&color=0D0908&height=180&section=header&text=Kuvacu&fontColor=ffffff&fontSize=50)
+![Kuvacu Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kuvacu&fontSize=56&fontAlign=50&fontAlignY=38&desc=Open-Source%20Development%20Team&descAlign=50&descAlignY=60&animation=fadeIn)
 
 # Kuvacu 🚀
 
