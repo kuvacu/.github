@@ -1,4 +1,4 @@
-# ![KUVACU Banner](https://t4.ftcdn.net/jpg/07/48/44/61/360_F_748446107_gRkebqAdRkUFssJX6sjXhdTnW8gKOkuQ.jpg)
+# ![KUVACU Banner](https://i.pinimg.com/originals/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg?nii=t)
 
 ## 👋 О нас
 **KUVACU** — команда, которая соединяет открытые и закрытые технологии.  
