@@ -1,4 +1,5 @@
 ![Kuvacu Banner](https://capsule-render.vercel.app/api?type=waving&color=0D0908&height=180&section=header&text=Kuvacu&fontColor=ffffff&fontSize=50)
+
 **Kuvacu** — независимая команда разработчиков-энтузиастов.  
 Мы создаём быстрые, минималистичные и мощные **open-source проекты**.
 
