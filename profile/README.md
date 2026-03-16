@@ -1,5 +1,4 @@
-![Kuvacu Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kuvacu&fontSize=56&fontAlign=50&fontAlignY=38&desc=Open-Source%20Development%20Team&descAlign=50&descAlignY=60&animation=fadeIn)
-
+![Kuvacu Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0908,100:1a1a1a&text=Kuvacu&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=40&desc=Fast%20•%20Minimal%20•%20Open%20Source&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn)
 # Kuvacu 🚀
 
 **Kuvacu** — независимая команда разработчиков-энтузиастов.  
